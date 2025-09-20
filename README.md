@@ -11,10 +11,12 @@ A collection of my LeetCode solutions. - Created using [LeetHub v2](https://gith
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
