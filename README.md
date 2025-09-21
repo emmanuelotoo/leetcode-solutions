@@ -11,6 +11,7 @@ A collection of my LeetCode solutions. - Created using [LeetHub v2](https://gith
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -21,4 +22,17 @@ A collection of my LeetCode solutions. - Created using [LeetHub v2](https://gith
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
