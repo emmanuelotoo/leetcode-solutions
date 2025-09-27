@@ -1,5 +1,5 @@
 # leetcode-solutions
-A collection of my LeetCode solutions. - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of my LeetCode solutions
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
