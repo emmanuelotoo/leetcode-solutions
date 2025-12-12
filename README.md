@@ -1,5 +1,5 @@
 # leetcode-solutions
-A collection of my LeetCode solutions
+a collection of leetcode problems i've solved.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
