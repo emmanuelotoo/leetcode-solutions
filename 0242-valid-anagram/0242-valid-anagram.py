@@ -3,4 +3,4 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        return sorted(t) == sorted(s)
+        return sorted(s) == sorted(t)
