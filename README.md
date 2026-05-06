@@ -11,6 +11,7 @@ a collection of leetcode problems i've solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -23,6 +24,7 @@ a collection of leetcode problems i've solved.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -31,6 +33,7 @@ a collection of leetcode problems i've solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -45,5 +48,6 @@ a collection of leetcode problems i've solved.
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
