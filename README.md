@@ -16,6 +16,7 @@ a collection of leetcode problems i've solved.
 | [0169-majority-element](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [1929-concatenation-of-array](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,8 @@ a collection of leetcode problems i've solved.
 | ------- |
 | [0049-group-anagrams](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
