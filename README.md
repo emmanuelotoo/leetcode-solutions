@@ -11,6 +11,7 @@ a collection of leetcode problems i've solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0169-majority-element) |
@@ -49,10 +50,15 @@ a collection of leetcode problems i've solved.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
