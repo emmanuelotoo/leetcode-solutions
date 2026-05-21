@@ -12,6 +12,7 @@ a collection of leetcode problems i've solved.
 | ------- |
 | [0001-two-sum](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0169-majority-element) |
@@ -21,6 +22,7 @@ a collection of leetcode problems i've solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
