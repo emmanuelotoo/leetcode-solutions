@@ -24,6 +24,7 @@ a collection of leetcode problems i've solved.
 | ------- |
 | [0027-remove-element](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -54,6 +55,7 @@ a collection of leetcode problems i've solved.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/emmanuelotoo/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
